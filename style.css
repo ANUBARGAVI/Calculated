@@ -1,0 +1,44 @@
+.main{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 50vh;
+    margin-top: 10%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+h1{
+    margin-left: 40%;
+}
+
+
+
+select{
+    margin-top: 5px;
+    width: 5%;
+    font-size: 20px;
+    margin-left: 47%;
+    background-color: wheat;
+}
+
+.num1{
+    width: 20%;
+    font-size: 25px;
+    margin-left: 30%;
+    background-color: white;
+    border-radius: 10px;
+}
+.num2{
+    width: 20%;
+    font-size: 25px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 5px;
+    
+}
+button{
+   margin-top: 30px;
+   font-size: 25px;
+   border-radius: 10px;
+   margin-left: 45%;
+   background-color: aqua;
+}
